@@ -5,4 +5,5 @@ bases:
   - ../base
 resources:
   - ../ressources/assets
+patchesStrategicMerge:
   - ../ressources/v2

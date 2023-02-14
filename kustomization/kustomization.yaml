@@ -4,5 +4,5 @@ namespace: otel-demo
 bases:
   - ../base
 resources:
+  - ../ressources/assets
   - ../ressources/v2
-  - ../ressources

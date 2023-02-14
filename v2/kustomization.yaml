@@ -5,6 +5,5 @@ bases:
   - ../base
 ressources:
   - ../ressources
-patchesStrategicMerge:
   - ../v2/application.yaml
   - ../v2/K8sdemo.yaml

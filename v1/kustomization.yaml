@@ -3,6 +3,6 @@ kind: Kustomization
 namespace: otel-demo
 bases:
   - ../base
-ressources:
+resources:
   - ../v1/application.yaml
   - ../v1/K8sdemo.yaml

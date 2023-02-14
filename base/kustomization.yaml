@@ -6,7 +6,7 @@ resources:
   - keptn-predeployment_adservice.yaml
   - keptn-predeployment_cartservice.yaml
   - keptn-predeployment_checkoutservice.yaml
-  - keptn-predeployment_checkoutservice.yaml
+  - keptn-predeployment_currency.yaml
   - keptn-predeployment_featureflag.yaml
   - keptn-predeployment_frontend.yaml
   - keptn-predeployment_kafka.yaml
